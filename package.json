@@ -1,0 +1,24 @@
+{
+  "name": "jquery-arrow-navigate",
+  "version": "1.0.0",
+  "description": "jquery plugin for arrow navigation between html form fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanderleisilva/jquery-arrow-navigate.git"
+  },
+  "keywords": [
+    "jquery",
+    "accessibility",
+    "html"
+  ],
+  "author": "Vanderlei Alves da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanderleisilva/jquery-arrow-navigate/issues"
+  },
+  "homepage": "https://github.com/vanderleisilva/jquery-arrow-navigate#readme"
+}
