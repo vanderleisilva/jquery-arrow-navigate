@@ -1,6 +1,6 @@
 {
   "name": "jquery-arrow-navigate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jquery plugin for arrow navigation between html form fields",
   "main": "index.js",
   "scripts": {
