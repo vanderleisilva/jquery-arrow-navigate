@@ -1,6 +1,8 @@
 # jQuery Arrow Navigate
 
-jQuery Arrow Navigate is a jQuery plugin that adds to **input, button and select html** elements navigation using left and right keyboard arrows.  
+[![Build Status](https://travis-ci.org/vanderleisilva/jquery-arrow-navigate.svg?branch=master)](https://travis-ci.org/vanderleisilva/jquery-arrow-navigate)
+
+jQuery Arrow Navigate is a jQuery plugin that adds to **input**, **button** and **select** html elements navigation using left and right keyboard arrows.  
 
 **How to use**
 
